@@ -12,10 +12,12 @@ I am a Software Engineer/Full-Stack Developer who wants to work with awesome peo
 *   ⚡  I can't wait to show the world the things I can make.
 
 
+
   <a href="https://www.github.com/FitzroyWoodruff" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/FitzroyWoodruff?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/fitzroywoodruff" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/fitzroywoodruff?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
+
                 
   ### Skills 
 <p align="left">
